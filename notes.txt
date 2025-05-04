@@ -1,1 +1,2 @@
 day1 : i started learning git
+Day 2: Today, I learned about Git commands.
