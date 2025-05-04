@@ -1,2 +1,3 @@
 day1 : i started learning git
 Day 2: Today, I learned about Git commands.
+Day 3: Today, I worked on learning Git branching.
